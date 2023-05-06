@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 
 <h1 align="center"><b>Hi there, Welcome in my profile </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![GitHub stars](https://img.shields.io/github/stars/Ahmed-Soultan/Ahmed-Soultan?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Ahmed-Soultan/Ahmed-Soultan?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ahmed-Soultan?style=social)](https://twitter.com/intent/follow?screen_name=Ahmed_a_sultan)
 <p align="center">
   <a href="https://ahmed-sultan.tk/portfolio"><img src="https://readme-typing-svg.herokuapp.com?font=Itim&weight=500&size=26&duration=4000&pause=1000&color=FFEB3B&width=435&lines=Welcome+in+my+github+profile...;My+name+is+Ahmed+Sultan;I'm+a+Front-End+Web+Developer" alt="Ahmed Sultan" /></a>
 </p>
